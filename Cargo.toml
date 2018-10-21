@@ -1,0 +1,8 @@
+[package]
+name = "gc-mark-sweep-rs"
+version = "0.1.0"
+authors = ["Nazarí González <nazari.nz@gmail.com>"]
+publish = false
+
+[dependencies]
+array-macro = "1.0.2"
